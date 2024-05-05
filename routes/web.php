@@ -13,7 +13,7 @@ Route::get('/', function () {
 
 Route::get('/tasks', function () {
     return view('index', [
-        'tasks' => Task::latest()->get()
+        'tasks' => Task::latest()->paginate(10)
         //latest is a query builder method so we can chain queries and at the end call get to execute the query
     ]);
 })->name('tasks.index');

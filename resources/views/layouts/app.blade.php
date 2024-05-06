@@ -8,8 +8,8 @@
     @yield('styles')
     @vite('resources/css/app.css')
 </head>
-<body>
-    <h1>@yield('title')</h1>
+<body class="container mx-auto mt-10 mb-10 max-w-lg">
+    <h1 class="text-2xl font-bold">@yield('title')</h1>
     <div>
         @if (session()->has('success'))
             <div>

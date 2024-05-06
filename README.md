@@ -10,6 +10,22 @@ Task List is a simple todo list application built with Laravel, utilizing the MV
 -   Delete tasks
 -   View all tasks
 
+## Screenshots
+Viewing all tasks
+<img width="1470" alt="viewing_all_tasks" src="https://github.com/Harjappan-Singh/task-list/assets/105536922/7fce2e12-068f-416a-b2e4-a3e10a1bdae3">
+
+Adding a task
+<img width="1470" alt="adding_a_task" src="https://github.com/Harjappan-Singh/task-list/assets/105536922/96739c35-8945-4a81-9333-58e9c7947fd9">
+
+Viewing a specific task
+<img width="1470" alt="comleted_task" src="https://github.com/Harjappan-Singh/task-list/assets/105536922/ce9b8bc5-e447-432b-bf26-283436ead1cd">
+
+Deleting a specific task
+<img width="1470" alt="deleting_a_task" src="https://github.com/Harjappan-Singh/task-list/assets/105536922/ccada161-70bc-4086-b9ad-2bfe842487c0">
+
+Updating a specific task
+<img width="1469" alt="updating_a_task" src="https://github.com/Harjappan-Singh/task-list/assets/105536922/c5135203-60b9-4c41-943c-b99c41de0404">
+
 ## Technologies Used
 
 -   Laravel

@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Laravel Task List App</title>
     @yield('styles')
+    @vite('resources/css/app.css')
 </head>
 <body>
     <h1>@yield('title')</h1>
